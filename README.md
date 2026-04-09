@@ -17,7 +17,7 @@ $\color{#00FF41}{\textsf{Im open to network and willing to work to solve any pro
 
 <pre>~/profile $ ls -la skills/</pre>
 
-**Languages**
+# Languages
 <pre>
 [ HTML         ] ██████████████░░  85%
 [ CSS          ] █████████████░░░  80%
@@ -26,7 +26,7 @@ $\color{#00FF41}{\textsf{Im open to network and willing to work to solve any pro
 [ Python       ] ███████████░░░░░  70%
 </pre>
 
-**Frameworks**
+# Frameworks
 <pre>
 [ React        ] ████████████░░░░  75%
 [ Next.js      ] ██████████░░░░░░  65%
@@ -34,7 +34,7 @@ $\color{#00FF41}{\textsf{Im open to network and willing to work to solve any pro
 [ Flask        ] █████████░░░░░░░  60%
 </pre>
 
-**Tools & Environment**
+# Tools & Environment
 <pre>
 [ VS Code      ] ██████████████░░  85%
 [ IntelliJ     ] ███████████░░░░░  70%
