@@ -7,8 +7,9 @@
 ```bash
 ~/profile $ whoami
 ```
-> **KeyToRealities** — [your role, e.g. "full-stack developer & problem solver"]
-> [1-2 sentence bio. What drives you, what you build, what you care about.]
+$\color{#BF00FF}{\textsf{KeyToRealities — [your role, e.g. "full-stack developer \& problem solver"]}}$
+
+$\color{#BF00FF}{\textsf{[1-2 sentence bio. What drives you, what you build, what you care about.]}}$
 
 ---
 
@@ -25,16 +26,29 @@
 
 **Languages**
 ```
-[ Python       ] ████████████░░░░  75%
-[ JavaScript   ] ██████████░░░░░░  60%
-[ [Language]   ] ████░░░░░░░░░░░░  25%
+[ HTML         ] ██████████████░░  85%
+[ CSS          ] █████████████░░░  80%
+[ JavaScript   ] █████████████░░░  80%
+[ Java         ] ████████████░░░░  75%
+[ Python       ] ███████████░░░░░  70%
 ```
 
-**Frameworks & Tools**
+**Frameworks**
 ```
-[ [Framework]  ] ███████████░░░░░  70%
-[ [Tool]       ] █████████░░░░░░░  55%
-[ [Tool]       ] ███████░░░░░░░░░  45%
+[ React        ] ████████████░░░░  75%
+[ Next.js      ] ██████████░░░░░░  65%
+[ Spring Boot  ] ██████████░░░░░░  65%
+[ Flask        ] █████████░░░░░░░  60%
+```
+
+**Tools & Environment**
+```
+[ VS Code      ] ██████████████░░  85%
+[ IntelliJ     ] ███████████░░░░░  70%
+[ Eclipse      ] ██████████░░░░░░  65%
+[ NetBeans     ] █████████░░░░░░░  60%
+[ Ubuntu       ] ████████████░░░░  75%
+[ Fedora       ] ██████████░░░░░░  65%
 ```
 
 ```bash
