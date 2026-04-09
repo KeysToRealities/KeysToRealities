@@ -6,8 +6,7 @@
 
 <pre>~/profile $ whoami</pre>
 
-$\color{#00FF41}{\textsf{KeysToRealities — Aspiring backend Java Web application Developer}}$
-
+$\color{#00FF41}{\textsf{Hello im KeysToRealities aspiring backend Java Web application Developer}}$
 $\color{#00FF41}{\textsf{Im open to network and willing to work to solve any problem or task..}}$
 ---
 
