@@ -7,10 +7,8 @@
 ```bash
 ~/profile $ whoami
 ```
-$\color{#BF00FF}{\textsf{KeyToRealities — [your role, e.g. "full-stack developer \& problem solver"]}}$
-
-$\color{#BF00FF}{\textsf{[1-2 sentence bio. What drives you, what you build, what you care about.]}}$
-
+> **KeyToRealities** — Aspiring backend Java Web application Developer
+> Im open to network and willing to work to solve any problem or task..
 ---
 
 ```bash
