@@ -7,7 +7,8 @@
 ```bash
 ~/profile $ whoami
 ```
-$\color{#BF00FF}{\textsf{KeyToRealities — Aspiring backend Java Web application Developer}}$
+
+$\color{#BF00FF}{\textsf{KeysToRealities — Aspiring backend Java Web application Developer}}$
 
 $\color{#BF00FF}{\textsf{Im open to network and willing to work to solve any problem or task..}}$
 ---
