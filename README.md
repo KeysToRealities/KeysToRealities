@@ -11,7 +11,7 @@ $\color{#00FF41}{\textsf{Im open to network and willing to work to solve any pro
 ---
 
 <pre>~/profile $ uptime
- up 3 years,  coding daily,  load avg: coffee, music, grind</pre>
+ up 3 years,  coding daily,  load avg: gaming, music, Anime</pre>
 
 ---
 
