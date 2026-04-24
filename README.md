@@ -50,35 +50,17 @@ $\color{#00FF41}{\textsf{Im open to network and willing to work to solve any pro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeysToRealities&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </div>
 
----
-
-<pre>~/profile $ ps aux | grep projects</pre>
-
-| PID | PROJECT | STATUS | STACK |
-|-----|---------|--------|-------|
-| `001` | `project-one` | ▶ running | `Python` `React` |
-| `002` | `project-two` | ▶ running | `Node` `MongoDB` |
-| `003` | `project-three` | ⏸ paused | `[stack]` |
-
----
-
-<pre>~/profile $ cat /etc/currently-learning.conf</pre>
-<pre>[focus]
-topic     = [e.g. Rust / System Design / AI]
-resource  = [e.g. book, course, docs]
-progress  = ████████░░░░  60%</pre>
 
 ---
 
 <pre>~/profile $ ping -c 4 contact</pre>
 <pre>PING contact (you) 56 bytes of data
 64 bytes: GitHub   → github.com/KeysToRealities
-64 bytes: Twitter  → @yourhandle
 64 bytes: LinkedIn → linkedin.com/in/yourname
-64 bytes: Email    → you@example.com
+64 bytes: Email    → keyvaun.herring24@gmail.com
 
 --- contact ping statistics ---
-4 packets transmitted, 4 received, 0% packet loss</pre>
+3 packets transmitted, 3 received, 0% packet loss</pre>
 
 ---
 
