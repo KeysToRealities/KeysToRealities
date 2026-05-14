@@ -5,7 +5,7 @@
 
 
 <pre>~/profile $ whoami</pre>
-  #### Hello, my name is Keyvaun I am an aspiring Software Developer that is focusing making and maintaining large scale Web-Based applications. I have experience in team-based agile settings, Implementing long lasting impactful solutions to full-scale software, and following core Software engineering principles and Design patterns.
+  #### Hello my name is Keyvaun, I am an aspiring Software Developer residing in Atlanta that is focusing on making and maintaining large scale Web-Based applications. I have experience in team-based agile settings, Implementing long lasting impactful solutions to full-scale software, and following core Software Engineering principles and Design Patterns.
 
   
  #### I work with Java and Spring boot mainly, but im willing and capable to adapt to any tech stack. Feel free to reach out to me via email or linkdin for inquires or to connect.
