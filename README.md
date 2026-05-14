@@ -2,13 +2,14 @@
   <img src="header.svg" alt="KeyToRealities" width="800"/>
 </div>
 
----
+
 
 <pre>~/profile $ whoami</pre>
+  #### Hello, my name is Keyvaun I am an aspiring Software Developer that is focusing making and maintaining large scale Web-Based applications. I have experience in team-based agile settings, Implementing long lasting impactful solutions to full-scale software, and following core Software engineering principles and Design patterns.
 
-$\color{#00FF41}{\textsf{Hello im KeysToRealities aspiring backend Java Web application Developer}}$
-$\color{#00FF41}{\textsf{Im open to network and willing to work to solve any problem or task..}}$
----
+  
+ #### I work with Java and Spring boot mainly, but im willing and capable to adapt to any tech stack. Feel free to reach out to me via email or linkdin for inquires or to connect.
+
 
 <pre>~/profile $ uptime
  up 3 years,  coding daily,  load avg: gaming, music, anime</pre>
@@ -19,29 +20,29 @@ $\color{#00FF41}{\textsf{Im open to network and willing to work to solve any pro
 
 # Languages
 <pre>
-[ HTML         ] ██████████████░░  85%
-[ CSS          ] █████████████░░░  80%
-[ JavaScript   ] █████████████░░░  80%
-[ Java         ] ████████████░░░░  75%
-[ Python       ] ███████████░░░░░  70%
+[ HTML         ] 
+[ CSS          ] 
+[ JavaScript   ] 
+[ Java         ] 
+[ Python       ] 
 </pre>
 
 # Frameworks
 <pre>
-[ React        ] ████████████░░░░  75%
-[ Next.js      ] ██████████░░░░░░  65%
-[ Spring Boot  ] ██████████░░░░░░  65%
-[ Flask        ] █████████░░░░░░░  60%
+[ React        ]
+[ Next.js      ] 
+[ Spring Boot  ]
+[ Flask        ] 
 </pre>
 
 # Tools & Environment
 <pre>
-[ VS Code      ] ██████████████░░  85%
-[ IntelliJ     ] ███████████░░░░░  70%
-[ Eclipse      ] ██████████░░░░░░  65%
-[ NetBeans     ] █████████░░░░░░░  60%
-[ Ubuntu       ] ████████████░░░░  75%
-[ Fedora       ] ██████████░░░░░░  65%
+[ VS Code      ] 
+[ IntelliJ     ] 
+[ Eclipse      ]
+[ NetBeans     ]
+[ Ubuntu       ] 
+[ Fedora       ] 
 </pre>
 
 <pre>~/profile $ cat skills/github-activity.log</pre>
@@ -56,7 +57,7 @@ $\color{#00FF41}{\textsf{Im open to network and willing to work to solve any pro
 <pre>~/profile $ ping -c 4 contact</pre>
 <pre>PING contact (you) 56 bytes of data
 64 bytes: GitHub   → github.com/KeysToRealities
-64 bytes: LinkedIn → linkedin.com/in/yourname
+64 bytes: LinkedIn → linkedin.com/in/KeyvaunHerring
 64 bytes: Email    → keyvaun.herring24@gmail.com
 
 --- contact ping statistics ---
